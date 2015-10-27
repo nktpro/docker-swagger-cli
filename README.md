@@ -9,5 +9,5 @@ Run via the convenient shell script:
   
 Or anywhere:
   
-    docker run -it --rm -v ${PWD}:/var/app -w /var/app nktpro/docker-swagger-cli ...
+    docker run -it --rm -v ${PWD}:/var/app -w /var/app nktpro/swagger-cli ...
 
